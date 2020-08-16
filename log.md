@@ -28,10 +28,17 @@
 
 **Link to work:** [Interact API]https://github.com/talhaabbasi/Interact-API---100DaysOfCode/commit/0e6ac97506055c69bd4ce4a0eb96f6602e5799b0
 
-### Day 3: August 15, 2020 
+### Day 4: August 15, 2020 
 
 **Today's Progress**: CORS issue resolved, code refactoring and Initial React APP Setup
 
 
 **Link to work:** [Interact API]https://github.com/talhaabbasi/Interact-API---100DaysOfCode/commit/0e6ac97506055c69bd4ce4a0eb96f6602e5799b0
 **Link to work:** [Interact React]https://github.com/talhaabbasi/Interact-React/commit/e0c1ea83aa9a44542a040484bbf1728b7fd4502e
+### Day 5: August 15, 2020 
+
+**Today's Progress**: Still had problems with CORS which were fixed and configured Axios to fetch data from API
+
+
+**Link to work:** [Interact API]https://github.com/talhaabbasi/Interact-API---100DaysOfCode/commit/8a9666108fdce245c5392d7c6cbcc371bd85fd6c
+**Link to work:** [Interact React]https://github.com/talhaabbasi/Interact-React/commit/aedee46e730a73e9d469609cfabc22b6a321b67d
